@@ -1,2 +1,2 @@
 # Towards-Exploring-Architectural-Insights-of-DNNs-ViTs-through-the-lens-of-Adversarial-Robustness
-This repository contains all the code and related files of the CSE 598 project.
+The Authors of thiis project are: @Sumedh-Joshi123 and @AmoghJ001
