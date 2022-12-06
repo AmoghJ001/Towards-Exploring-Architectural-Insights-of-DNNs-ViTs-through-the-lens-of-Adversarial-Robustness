@@ -24,3 +24,9 @@ The table below compares all the models based on their depth and parameters.
 
 ![IMG](./Results/compare13.png)
 
+# Results
+The experimental results of the adversarial tests performed are summarized in the Table 2 and Table 3 for CIFAR-10 and MNIST Datasets respectively.
+
+![IMG](./Results/compare_cifar.png)
+
+![IMG](./Results/compare_mnist.png)
