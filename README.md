@@ -8,8 +8,8 @@ to support our findings.
 Along with performing comprehensive experiments on ImageNet models and Vision Transformers, we propose two novel architecture families:
 1) BaseNet Family (BaseNet-1,  BaseNet-2, BaseNet-3)
 2) MultiScaleNet (MSNet) Family: (MSnet-1, MSNet-2, MSNet-3)
-The figures below illustrate our two proposed models: BaseNets and MSNets.
 
+The figures below illustrate our two proposed models: BaseNets and MSNets.
 
 ![IMG](./Results/basenets.png)
 ![IMG](./Results/msnets.png)
