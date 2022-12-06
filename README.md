@@ -31,8 +31,10 @@ The experimental results of the adversarial tests performed for 0.001 intensity 
 
 ![IMG](./Results/compare_mnist.png)
 
-The Figures 2 and 4 summarize the results of all the experiments in the form of graphical visualizations. 
+The Figures below summarize the results of all the experiments in the form of graphical visualizations. 
 
+Figure 3: Performance of ImageNet models on (a)-(c) CIFAR-10 and (d)-(f) MNIST Datasets
 ![IMG](./Results/img-all.png)
 
+Figure 4: Performance of BaseNets, MultiScale-Nets and Vision Transformers (ViTs) on (a)-(c) CIFAR-10 and (d)-(f) MNIST Datasets
 ![IMG](./Results/all-self.png)
