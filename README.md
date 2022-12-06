@@ -13,3 +13,14 @@ The figures below illustrate our two proposed models: BaseNets and MSNets.
 
 ![IMG](./Results/basenets.png)
 ![IMG](./Results/msnets.png)
+
+# Experiments
+To test the adversarial robustness of different architectures considered in this study, we perform PGD attacks of varying intensities: 0.001, 0.005, 0.01 in varying steps of 1,2,5 and 10 for all the models for the two datasets each.
+The experiments are performed along two major themes:
+1) Understanding the effect of increase in architectural depth in terms of layers on the adversarial robustness
+2) Understanding the effect of increase in parameters on the adversarial robustness of the model
+
+The table below compares all the models based on their depth and parameters.
+
+![IMG](./Results/compare13.png)
+
