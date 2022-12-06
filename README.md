@@ -25,8 +25,14 @@ The table below compares all the models based on their depth and parameters.
 ![IMG](./Results/compare13.png)
 
 # Results
-The experimental results of the adversarial tests performed are summarized in the Table 2 and Table 3 for CIFAR-10 and MNIST Datasets respectively.
+The experimental results of the adversarial tests performed for 0.001 intensity are summarized in the Table 2 and Table 3 for CIFAR-10 and MNIST Datasets respectively. 
 
 ![IMG](./Results/compare_cifar.png)
 
 ![IMG](./Results/compare_mnist.png)
+
+The Figures 2 and 4 summarize the results of all the experiments in the form of graphical visualizations. 
+
+![IMG](./Results/img-all.png)
+
+![IMG](./Results/all-self.png)
